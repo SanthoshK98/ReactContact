@@ -1,0 +1,33 @@
+/* .text-center{
+  text-align: center;
+}
+.heading{
+  color: blue;
+  font-size: 2rem;
+}
+.text-danger{
+  color: red;
+}
+.invalid{
+  border: 1px solid red;
+}
+.primary{
+  padding: .5rem;
+  background: blue;
+  color: white;
+  border: none;
+}
+input{
+  border: 1px solid gray;
+  outline: none;
+} */
+
+/* .container{
+  display: flex;
+} */
+
+.scroll{
+  height: 80vh;
+  overflow-y: scroll;
+  border: 1px solid blue;
+}
